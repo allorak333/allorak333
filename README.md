@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=allorak333)](https://solved.ac/allorak333/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?allorak333=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allorak333)](https://github.com/anuraghazra/github-readme-stats)
